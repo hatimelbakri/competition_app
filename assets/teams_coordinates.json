@@ -1,0 +1,6 @@
+[
+  {"id": "t1", "name": "France National", "city": "Paris", "latitude": 48.8566, "longitude": 2.3522},
+  {"id": "t2", "name": "USA National", "city": "New York", "latitude": 40.7128, "longitude": -74.0060},
+  {"id": "t3", "name": "Spain National", "city": "Madrid", "latitude": 40.4168, "longitude": -3.7038},
+  {"id": "t4", "name": "Germany National", "city": "Berlin", "latitude": 52.5200, "longitude": 13.4050}
+]
